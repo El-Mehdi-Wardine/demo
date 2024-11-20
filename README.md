@@ -6,7 +6,11 @@
 ```python
 print("Hello World!")
 ```
-2. Javascript
+2. JavaScript
 ```js
 console.log("Hello World!")
+```
+3. PHP
+```php
+echo("Hello World!")
 ```
