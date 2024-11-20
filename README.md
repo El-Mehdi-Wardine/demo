@@ -1,6 +1,6 @@
 # Demo Repo
 
-## Print **Hello World!** in different language
+## Print *Hello World!* in different language
 
 1. Python
 ```python
