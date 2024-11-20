@@ -1,16 +1,14 @@
-# Demo Repo
+# Learning Git
 
-## Print *Hello World!* in different language
+## Git commands
 
-1. Python
-```python
-print("Hello World!")
+### Add
 ```
-2. JavaScript
-```js
-console.log("Hello World!")
+git add <fileName>
 ```
-3. PHP
-```php
-echo("Hello World!")
+>or use **git add .** to adding all files.
+
+### Commit
+```
+git commit -m "title of commit" -m "description of commit is optional"
 ```
